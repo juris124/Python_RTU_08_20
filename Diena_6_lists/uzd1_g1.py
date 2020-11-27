@@ -1,4 +1,4 @@
-# Māras risinājums
+# Māras risinājums 
 total = 0
 saraksts2 = []
 n = 0
